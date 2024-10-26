@@ -1,6 +1,9 @@
 # House-price-prediction
 This is my first ever project , I've been exploring machine learning for quite a few days now , I've learnt about linear regression and i wanted to implement it on my own over a very common example like the house price prediction , i will be using the concept of linear regression to create machine learning model to predict house prices. I will be training the model by using the california housing data set from scikit learn and accordingly predicts the housing prices of desired qualities. 
 
+
+
+#Code for the implementation is as follows
 import pandas as pd
 import numpy as np
 from sklearn.datasets import fetch_california_housing
