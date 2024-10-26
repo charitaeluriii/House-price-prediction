@@ -3,7 +3,7 @@ This is my first ever project , I've been exploring machine learning for quite a
 
 
 
-#Code for the implementation is as follows
+# Code for the implementation is as follows
 import pandas as pd
 import numpy as np
 from sklearn.datasets import fetch_california_housing
